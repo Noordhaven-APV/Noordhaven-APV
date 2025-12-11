@@ -262,9 +262,9 @@
             <li><b>OW 12 – Hulpdiensten gijzelen:</b>
                 <ul>
                     <li>Het gijzelen op of rondom de volgende locaties is verboden:</li>
-                    <li>- Politiebureau HB.</li>
-                    <li>- Ambulance HB.</li>
-                    <li>- Wegenwacht HB.</li>
+                    <li>Politiebureau HB.</li>
+                    <li>Ambulance HB.</li>
+                    <li>Wegenwacht HB.</li>
                 </ul>
             </li>
             <li><b>OW 13 – Setups:</b> Een setup mag pas worden uitgevoerd minimaal 5 minuten nadat er groen licht is gegeven. Onder de 5 minuten is een setup niet toegestaan.</li>

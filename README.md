@@ -238,6 +238,7 @@
                     <li>Ambulancepersoneel en ANWB-medewerkers mogen niet als hostage gebruikt worden.</li>
                     <li>Wapens afpakken of porto blokkeren mag alleen via /me, dus niet zomaar afnemen.</li>
                     <li>Zodra iemand hostage is genomen mag je geen spullen van die persoon afpakken.</li>
+                    <li>Je mag geen friendly hostage spelen of nemen dit betekend dat je een vriend niet als hostage mag pakken. Allebei de partijen worden hiervoor gestraft.</li>
                 </ul>
             </li>
             <li><b>OW 3 – Ganginvallen:</b> Ganginvallen zijn alleen toegestaan wanneer er voorgaand toestemming is van de Onderwereld-coördinator.</li>

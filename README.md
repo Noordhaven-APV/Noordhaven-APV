@@ -275,7 +275,6 @@
                     <li>Kleine bank: minimaal 2 hostages nodig.</li>
                     <li>Juwelier: minimaal 3 hostages nodig.</li>
                     <li>Grote bank: minimaal 4 hostages nodig.</li>
-                    <li>Jachtoverval: minimaal 5 hostages nodig.</li>
                 </ul>
             </li>
         </ul>

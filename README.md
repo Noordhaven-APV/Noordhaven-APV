@@ -145,13 +145,14 @@
     <h2>🚫 Overige Algemene Regels</h2>
     <div class="box">
         <ul>
-            <li><b>Art 33 – Bodylooten:</b> Het looten/fouilleren van een dood lichaam is verboden met uitzondering van de Dienst Speciale Interventies.  → Cat 3</li>
+            <li><b>Art 33 – Bodylooten:</b> Het looten/fouilleren van een dood lichaam is verboden.  → Cat 3</li>
             <li><b>Art 34 – Afmaken:</b> Je mag iemand alleen afmaken wanneer je wordt beschoten door 3 of meer personen. → Cat 3</li>
             <li><b>Art 35 – Uit auto schieten:</b> Schieten in of vanuit een voertuig op spelers is verboden. → Cat 2</li>
             <li><b>Art 36 – Schelden met ziektes:</b> Ziektegerelateerde beledigingen zijn volledig verboden. → Cat 4</li>
             <li><b>Art 37 – Liegen tegen staff:</b> Het geven van onjuiste informatie, liegen of misleiden van staff is niet toegestaan. → Cat 5</li>
             <li><b>Art 38 – Stemherkenning:</b> Het herkennen van iemand aan zijn stem is niet toegestaan wanneer diegene een masker draagt. → Cat 3</li>
             <li><b>Art 39 – Gangkleding:</b> Het dragen van gangkleding is verboden tenzij je daadwerkelijk lid bent van die gang. → Cat 3</li>
+            <li><b>Art 40 – Combathelm:</b> Het dragen van een combathelm is verboden. → Cat 3</li>
         </ul>
     </div>
 

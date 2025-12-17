@@ -153,6 +153,8 @@
             <li><b>Art 38 – Stemherkenning:</b> Het herkennen van iemand aan zijn stem is niet toegestaan wanneer diegene een masker draagt. → Cat 3</li>
             <li><b>Art 39 – Gangkleding:</b> Het dragen van gangkleding is verboden tenzij je daadwerkelijk lid bent van die gang. → Cat 3</li>
             <li><b>Art 40 – Combathelm:</b> Het dragen van een combathelm is verboden. → Cat 3</li>
+            <li><b>Art 41 – Politie naar Burger:</b> Het onnodig finishen van burgers zonder dat je door 3+ man word beschoten. → Cat 3</li>
+            <li><b>Art 42 – Burger naar Politie:</b> Het onnodig finishen van politie agenten zonder dat je door 3+ man word beschoten. → Cat 2</li>
         </ul>
     </div>
 

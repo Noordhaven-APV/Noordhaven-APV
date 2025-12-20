@@ -76,7 +76,7 @@
     <h2>🎭 Roleplay Regels</h2>
     <div class="box">
         <ul>
-            <li><b>Art 2.1 – Het is verboden om onrealistisch of ongeloofwaardig deel te nemen aan een roleplayscenario. Acties moeten altijd logisch, realistisch en passend binnen de situatie zijn. → Cat 5</b></li>
+            <li><b>Art 2.1 – Roleplay gedrag: Het is verboden om onrealistisch of ongeloofwaardig deel te nemen aan een roleplayscenario. Acties moeten altijd logisch, realistisch en passend binnen de situatie zijn. → Cat 5</b></li>
             <li><b>Art 2.2 – Verstoren RP:</b> Het opzettelijk verstoren, saboteren of onderbreken van roleplay tussen andere spelers is niet toegestaan. Dit omvat onder andere onnodig inmengen, trollen of het verpesten van een lopend scenario. → Cat 3</li>
             <li><b>Art 2.3 – Metagaming:</b> Informatie die niet via jouw karakter is verkregen, mag je niet gebruiken in roleplay. Voorbeelden: Discord-gesprekken, streams, clips, appjes buiten FiveM. → Cat 4</li>
             <li><b>Art 2.4 – Streamsniping:</b> Het opzoeken, volgen, herkennen of beïnvloeden van spelers via hun livestream is verboden. Dit geldt ook wanneer je hun locatie of plannen via een stream meekrijgt. → Cat 6</li>
@@ -140,6 +140,7 @@
             <li><b>Art 7.3 – GTA-Style Driving:</b> Onrealistisch rijgedrag zoals stunten, wilde manoeuvres of overmatig bumps misbruiken is verboden. → Cat 1</li>
             <li><b>Art 7.4 – Refunds:</b> Voor refunds is een clip van minimaal 5 minuten vereist waarin jouw stem duidelijk te horen is. Misbruik van refundverzoeken is strafbaar. → Cat 2</li>
             <li><b>Art 7.5 – Donatie-auto's:</b> Voertuigen die via donaties zijn verkregen mogen niet doorverkocht worden. → Cat 4</li>
+            <li><b>Art 7.6 – Off-road:</b> Het rijden van off-road is niet toegestaan met een on-roader. → Cat 3</li>
         </ul>
     </div>
 

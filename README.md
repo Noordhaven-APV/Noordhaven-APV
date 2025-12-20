@@ -118,7 +118,7 @@
     <div class="box">
         <ul>
             <li><b>Art 5.1 – Cheats:</b> Het gebruik van externe software, hacks, injectors of andere hulpmiddelen is volledig verboden.  → Cat 10</li>
-            <li><b>Art 5.2 – Exploits:</b> Het misbruiken van bugs, glitches of systemen (zoals duplicatie, money exploits, stash glitches) is verboden. → Cat 3 t/m Cat 10</li>
+            <li><b>Art 5.2 – Exploits:</b> Het misbruiken van bugs, glitches of systemen (zoals duplicatie, money exploits, stash glitches of enige vormen van reshades, packs ext waar je een voordeel uit haalt.) is verboden. → Cat 3 t/m Cat 10</li>
         </ul>
     </div>
 

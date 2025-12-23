@@ -88,6 +88,7 @@
             <li><b>Art 2.10 – Combat-stash:</b> Binnen 10 minuten na een scenario mag je geen wapens of illegale items wegleggen in een stash, kofferbak of inventaris van anderen. → Cat 3</li>
             <li><b>Art 2.11 – Politie naar Burger:</b> Het onnodig finishen van burgers zonder dat je door 3+ man word beschoten. → Cat 3</li>
             <li><b>Art 2.12 – Burger naar Politie:</b> Het onnodig finishen van politie agenten zonder dat je door 3+ man word beschoten. → Cat 2</li>
+            <li><b>Art 2.13 – Soundboards:</b> Het gebruiken van soundboards of enige vormen van geluiden die realistisch zijn voor de roleplay is verboden. → Cat 2</li>
         </ul>
     </div>
 
@@ -118,7 +119,7 @@
     <div class="box">
         <ul>
             <li><b>Art 5.1 – Cheats:</b> Het gebruik van externe software, hacks, injectors of andere hulpmiddelen is volledig verboden.  → Cat 10</li>
-            <li><b>Art 5.2 – Exploits:</b> Het misbruiken van bugs, glitches of systemen (zoals duplicatie, money exploits, stash glitches of enige vormen van reshades, packs ext waar je een voordeel uit haalt.) is verboden. → Cat 3 t/m Cat 10</li>
+            <li><b>Art 5.2 – Exploits:</b> Het misbruiken van bugs, glitches of systemen (zoals duplicatie, money exploits, stash glitches of enige vormen van reshades packs ext waar je een voordeel uit haalt.) is verboden. → Cat 3 t/m Cat 10</li>
         </ul>
     </div>
 
@@ -127,7 +128,7 @@
     <div class="box">
         <ul>
             <li><b>Art 6.1 – Discord voor RP:</b> Het gebruik van externe software, hacks, injectors of andere hulpmiddelen is volledig verboden.  → Cat 5</li>
-            <li><b>Art 6.2 – Twitter:</b> Het misbruiken van bugs, glitches of systemen (zoals duplicatie, money exploits, stash glitches) is verboden. → Cat 2</li>
+            <li><b>Art 6.2 – Twitter:</b> Het praten in twitter over onderwereld zaken is verboden. → Cat 2</li>
         </ul>
     </div>
 

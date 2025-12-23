@@ -87,7 +87,7 @@
             <li><b>Art 2.9 – Combat-logout:</b> Na een roleplayscenario mag je 10 minuten niet uitloggen. Doe je dit toch, dan geldt het als combat-loggen. → Cat 4</li>
             <li><b>Art 2.10 – Combat-stash:</b> Binnen 10 minuten na een scenario mag je geen wapens of illegale items wegleggen in een stash, kofferbak of inventaris van anderen. → Cat 3</li>
             <li><b>Art 2.11 – Politie naar Burger:</b> Het onnodig finishen van burgers zonder dat je door 3+ man word beschoten. → Cat 3</li>
-            <li><b>Art 2.12 – Burger naar Politie:</b> Het onnodig finishen van politie agenten zonder dat je door 3+ man word beschoten. → Cat 2</li>
+            <li><b>Art 2.12 – Burger naar Politie:</b> Het onnodig finishen van politie agenten zonder dat je door 3+ man word beschoten. → Cat 3</li>
             <li><b>Art 2.13 – Soundboards:</b> Het gebruiken van soundboards of enige vormen van geluiden die realistisch zijn voor de roleplay is verboden. → Cat 2</li>
         </ul>
     </div>

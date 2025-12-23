@@ -76,7 +76,7 @@
     <h2>🎭 Roleplay Regels</h2>
     <div class="box">
         <ul>
-            <li><b>Art 2.1 – Roleplay gedrag: Het is verboden om onrealistisch of ongeloofwaardig deel te nemen aan een roleplayscenario. Acties moeten altijd logisch, realistisch en passend binnen de situatie zijn. → Cat 5</b></li>
+            <li><b>Art 2.1 – Roleplay gedrag: Het is verboden om onrealistisch of ongeloofwaardig deel te nemen aan een roleplayscenario. Acties moeten altijd logisch, realistisch en passend binnen de situatie zijn. → Cat 5</li>
             <li><b>Art 2.2 – Verstoren RP:</b> Het opzettelijk verstoren, saboteren of onderbreken van roleplay tussen andere spelers is niet toegestaan. Dit omvat onder andere onnodig inmengen, trollen of het verpesten van een lopend scenario. → Cat 3</li>
             <li><b>Art 2.3 – Metagaming:</b> Informatie die niet via jouw karakter is verkregen, mag je niet gebruiken in roleplay. Voorbeelden: Discord-gesprekken, streams, clips, appjes buiten FiveM. → Cat 4</li>
             <li><b>Art 2.4 – Streamsniping:</b> Het opzoeken, volgen, herkennen of beïnvloeden van spelers via hun livestream is verboden. Dit geldt ook wanneer je hun locatie of plannen via een stream meekrijgt. → Cat 6</li>
@@ -84,7 +84,7 @@
             <li><b>Art 2.6 – NVL:</b> Je karakter moet altijd waarde hechten aan zijn leven. Voorbeelden van NVOL: Weg rennen terwijl er een wapen op je gericht staat, Dreigen tegen gewapende personen of Onrealistische heldenacties → Cat 6</li>
             <li><b>Art 2.7 – RDM:</b> Spelers vermoorden zonder geldige RP-reden of zonder opbouw in het scenario is verboden. → Cat 5</li>
             <li><b>Art 2.8 – VDM:</b> Het opzettelijk aanrijden of doodrijden van spelers zonder realistische RP-reden is niet toegestaan. → Cat 4</li>
-            <li><b>Art 2.9 – Combat-logout:</b> Na een roleplayscenario mag je 10 minuten niet uitloggen. Doe je dit toch, dan geldt het als combat-loggen. → Cat 4</li>
+            <li><b>Art 2.9 – Combat-loggen:</b> Na een roleplayscenario mag je 10 minuten niet uitloggen. Doe je dit toch, dan geldt het als combat-loggen. → Cat 4</li>
             <li><b>Art 2.10 – Combat-stash:</b> Binnen 10 minuten na een scenario mag je geen wapens of illegale items wegleggen in een stash, kofferbak of inventaris van anderen. → Cat 3</li>
             <li><b>Art 2.11 – Politie naar Burger:</b> Het onnodig finishen van burgers zonder dat je door 3+ man word beschoten. → Cat 3</li>
             <li><b>Art 2.12 – Burger naar Politie:</b> Het onnodig finishen van politie agenten zonder dat je door 3+ man word beschoten. → Cat 3</li>
@@ -92,8 +92,8 @@
         </ul>
     </div>
 
-    <!-- Economie & Items -->
-    <h2>💼 Economie & Items</h2>
+    <!-- Overige Roleplay Regels -->
+    <h2>💼 Overige Roleplay Regels</h2>
     <div class="box">
         <ul>
             <li><b>Art 3.1 – Scammen:</b> Oplichten met voertuigen of items is verboden. Gescamde spullen moeten altijd worden teruggegeven met uitzondering van items uit de criminaliteit.  → Cat 4</li>
@@ -280,6 +280,7 @@
                     <li>Kleine bank: minimaal 2 hostages nodig.</li>
                     <li>Juwelier: minimaal 3 hostages nodig.</li>
                     <li>Grote bank: minimaal 4 hostages nodig.</li>
+                    <li><b>OW 15 – F6 gebruik:</b> Het misbruiken F6 of alt menus is strafbaar en is verboden.</li>
                 </ul>
             </li>
         </ul>

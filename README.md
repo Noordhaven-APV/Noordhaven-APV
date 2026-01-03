@@ -93,14 +93,15 @@
             <li><b>Art 2.3 – Metagaming:</b> Informatie die niet via jouw karakter is verkregen, mag niet worden gebruikt in roleplay. Bijvoorbeeld Discord-gesprekken, streams, clips, apps buiten FiveM. → Cat 4</li>
             <li><b>Art 2.4 – Streamsniping:</b> Het opzoeken, volgen, herkennen of beïnvloeden van spelers via livestreams is verboden. Dit geldt ook wanneer je hun locatie of plannen via een stream meekrijgt. → Cat 6</li>
             <li><b>Art 2.5 – New Life Rule (NLR):</b> Na de dood van je karakter vergeet je alles wat hiermee te maken heeft. Je mag niet terugkeren naar de locatie van overlijden en geen informatie uit dat scenario gebruiken. → Cat 4</li>
-            <li><b>Art 2.6 – NVL:</b> Je karakter moet altijd waarde hechten aan zijn leven. Voorbeelden van NVL: Weg rennen terwijl er een wapen op je gericht is, dreigen tegen gewapende personen of onrealistische heldenacties. → Cat 6</li>
-            <li><b>Art 2.7 – RDM:</b> Het vermoorden van spelers zonder geldige RP-reden of zonder opbouw in het scenario is verboden. → Cat 5</li>
-            <li><b>Art 2.8 – VDM:</b> Het opzettelijk aanrijden of doodrijden van spelers zonder realistische RP-reden is niet toegestaan. → Cat 4</li>
+            <li><b>Art 2.6 – No Value Of Life:</b> Je karakter moet altijd waarde hechten aan zijn leven. Voorbeelden van NVOL: Weg rennen terwijl er een wapen op je gericht is, dreigen tegen gewapende personen of onrealistische heldenacties. → Cat 6</li>
+            <li><b>Art 2.7 – Random Death Match:</b> Het vermoorden van spelers zonder geldige RP-reden of zonder opbouw in het scenario is verboden. → Cat 5</li>
+            <li><b>Art 2.8 – Vehicle Death Match:</b> Het opzettelijk aanrijden of doodrijden van spelers zonder realistische RP-reden is niet toegestaan. → Cat 4</li>
             <li><b>Art 2.9 – Combat-loggen:</b> Na een roleplay-scenario mag je 10 minuten niet uitloggen. Uitloggen binnen deze tijd wordt beschouwd als combat-loggen. → Cat 4</li>
             <li><b>Art 2.10 – Combat-stash:</b> Binnen 10 minuten na een scenario mag je geen wapens of illegale items wegleggen in een stash, kofferbak of inventaris van anderen. → Cat 3</li>
             <li><b>Art 2.11 – Politie naar Burger:</b> Het onnodig finishen van burgers zonder dat je door 3+ man wordt beschoten. → Cat 3</li>
             <li><b>Art 2.12 – Burger naar Politie:</b> Het onnodig finishen van politieagenten zonder dat je door 3+ man wordt beschoten. → Cat 3</li>
             <li><b>Art 2.13 – Soundboards:</b> Het gebruiken van soundboards of geluiden die passen bij roleplay is verboden. → Cat 2</li>
+            <li><b>Art 2.14 – Failed Roleplay:</b> Het niet meewerken met RP of het slecht uitvoeren van een roleplay scenario → Cat 3</li>
         </ul>
     </div>
 
